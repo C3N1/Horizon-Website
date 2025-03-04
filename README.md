@@ -25,7 +25,7 @@ A responsive and modern landing page for a digital agency, built with **HTML, CS
 
 
 ## 🌍 Live Demo
-[Click here to view the live website](#) *(Replace with your hosted link)*
+https://c3n1.github.io/Horizon-Website/
 
 ## 🔧 Installation
 To run the project locally:
